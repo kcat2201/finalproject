@@ -48,7 +48,7 @@
 ## 📚프로젝트에 사용된 API📚  
 <img src="https://img.shields.io/badge/Kakao Login-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Kakao Map-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Duam 우편번호-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Daum 우편번호-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/></a>
 <br>
 <img src="https://img.shields.io/badge/국내항공운항정보-000000?style=flat-square"/></a>
 <img src="https://img.shields.io/badge/Barcode Coder-000000?style=flat-square"/></a>
